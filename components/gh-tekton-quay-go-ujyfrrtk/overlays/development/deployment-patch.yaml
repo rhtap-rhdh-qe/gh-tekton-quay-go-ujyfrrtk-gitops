@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/gh-tekton-quay-go-ujyfrrtk:24d59642d2e3bf2ea26f593600800f3dfd6d3f05@sha256:cbdc4e79317a4b8c0270a53efd6e0c94ae3e275913ba2fd07676948cfee75adb
+        - image: quay.io/rhtap_qe/gh-tekton-quay-go-ujyfrrtk:28abff0d99f92d6db9752a155260882ca52767b7@sha256:c9e2f8f2812e9920c4e32d13da95ff66492d4a09d3f3b5ea6a779b7ebc08f48d
           name: container-image
